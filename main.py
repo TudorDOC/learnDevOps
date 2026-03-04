@@ -8,7 +8,7 @@ def random_number():
 
 
 if __name__ == "__main__":
-	print(random_number)
+	print(random_number())
 
 
 
